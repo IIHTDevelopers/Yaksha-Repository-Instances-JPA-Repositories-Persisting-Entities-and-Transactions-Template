@@ -1,4 +1,6 @@
 package com.yaksha.assignment.service;
+
+import com.yaksha.assignment.entity.Order;
 // Import CustomProductRepository
 
 public class TransactionService {
